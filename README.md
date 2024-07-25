@@ -1,4 +1,5 @@
 # Working with Rob
+_Estimated reading time: 5 minutes._
 
 ## My Core Values
 
